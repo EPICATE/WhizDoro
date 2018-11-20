@@ -1,2 +1,2 @@
 # whizdoro
-Browser extension to get things done
+A chrome extension to get things done
